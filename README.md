@@ -1,2 +1,2 @@
 # OIBGRIP
-this repository is created for the projects done under oasis infobyte
+this repository is created for task 3 of level 1- web development and design
